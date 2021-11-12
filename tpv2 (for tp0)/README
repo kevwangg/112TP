@@ -1,0 +1,8 @@
+Some things have been coded in, resolution changed from 2000x1000 to 1680x960. 
+Movement and item locations have been set.
+Things that need to be added:
+- Adding items to 'cart' and tracking completion
+- Zombies + player tracking
+- Game Over status/Game Completed status
+- Timer
+- Pixelart
